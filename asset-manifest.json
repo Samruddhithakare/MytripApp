@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MytripApp/static/css/main.914f4196.css",
+    "main.js": "/MytripApp/static/js/main.d444637c.js",
+    "static/media/4.jpg": "/MytripApp/static/media/4.117b28c48e4d6c00cc84.jpg",
+    "static/media/1.jpg": "/MytripApp/static/media/1.dab62c8a597dae7de335.jpg",
+    "static/media/12.jpg": "/MytripApp/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/3.jpg": "/MytripApp/static/media/3.f69e5522bfe6cc518a96.jpg",
+    "static/media/2.jpg": "/MytripApp/static/media/2.68358ce987761e2d453a.jpg",
+    "static/media/5.jpg": "/MytripApp/static/media/5.e8e823794a21af5a7c47.jpg",
+    "static/media/8.jpg": "/MytripApp/static/media/8.a29bb2ac4b568a142422.jpg",
+    "static/media/10.jpg": "/MytripApp/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/night.jpg": "/MytripApp/static/media/night.ac6d287d5d0014553b87.jpg",
+    "static/media/6.jpg": "/MytripApp/static/media/6.e98f6ba9f88aa0b95c7c.jpg",
+    "index.html": "/MytripApp/index.html",
+    "main.914f4196.css.map": "/MytripApp/static/css/main.914f4196.css.map",
+    "main.d444637c.js.map": "/MytripApp/static/js/main.d444637c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914f4196.css",
+    "static/js/main.d444637c.js"
+  ]
+}
